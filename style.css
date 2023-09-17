@@ -19,3 +19,14 @@ a{
 #navbar a:hover {
     color: red;
 }
+button {
+    background-color: green;
+    padding: 5px 12px;
+    color: white;
+    border:none;
+    border-radius: 2px;
+}
+button:hover{
+    background-color: brown;
+    cursor: pointer;
+}
