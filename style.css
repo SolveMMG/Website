@@ -9,3 +9,13 @@ body{
   align-items: center;
   justify-content: space-between;
 }
+a{
+    text-decoration: none;
+}
+#navbar a{
+    color:black;
+    margin-right:10px;
+}
+#navbar a:hover {
+    color: red;
+}
