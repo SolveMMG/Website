@@ -32,9 +32,11 @@ button:hover{
 }
 #Landing {
     width: 70vw;
-    margin:auto; 
+    margin:auto;
+    margin-left: 30vw;
     display: flex;
-    
+    flex-direction: row;
+    align-items: center;
 }
 #Landing.column {
     width: 50%;
