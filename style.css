@@ -65,3 +65,16 @@ footer .M{
     line-height: 30px;
 
 }
+
+footer .row2{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between ;
+}
+footer .row2 .icons{
+    display: flex;
+}
+footer .row2 .icons a{
+    color: white;
+    margin-left: 10px;
+}
